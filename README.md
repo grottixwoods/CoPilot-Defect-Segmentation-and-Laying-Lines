@@ -11,9 +11,9 @@
  _для повышения безопасности дорожного движения_".
 
 <div align="left">
-    <img src="https://github.com/grottixwoods/CoPilot-Defect-Segmentation-and-Laying-Lines/assets/55210700/4cbaa493-bd26-48c7-9c81-54e17b98f142" alt="PRD" width="250px">
-    <img src="https://github.com/grottixwoods/CoPilot-Defect-Segmentation-and-Laying-Lines/assets/55210700/c97ce96b-73bc-4e53-9aee-395b456ea5a5" alt="ADV" width="250px">
-    <img src="https://github.com/grottixwoods/CoPilot-Defect-Segmentation-and-Laying-Lines/assets/55210700/34f6c9bd-1583-4c25-9d31-128aa0888c94" alt="SF" width="250px">
+    <img src="https://github.com/grottixwoods/CoPilot-Defect-Segmentation-and-Laying-Lines/assets/55210700/4cbaa493-bd26-48c7-9c81-54e17b98f142" alt="PRD" width="255px">
+    <img src="https://github.com/grottixwoods/CoPilot-Defect-Segmentation-and-Laying-Lines/assets/55210700/c97ce96b-73bc-4e53-9aee-395b456ea5a5" alt="ADV" width="255px">
+    <img src="https://github.com/grottixwoods/CoPilot-Defect-Segmentation-and-Laying-Lines/assets/55210700/34f6c9bd-1583-4c25-9d31-128aa0888c94" alt="SF" width="255px">
 </div>
 
 ---
