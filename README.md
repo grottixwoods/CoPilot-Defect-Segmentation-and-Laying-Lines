@@ -9,6 +9,10 @@
  на тему: _"Исследование и разработка интеллектуальной системы выявления опасных участков дороги_
 
  _для повышения безопасности дорожного движения_".
+![PRD](https://github.com/grottixwoods/CoPilot-Defect-Segmentation-and-Laying-Lines/assets/55210700/4cbaa493-bd26-48c7-9c81-54e17b98f142)
+![ADV](https://github.com/grottixwoods/CoPilot-Defect-Segmentation-and-Laying-Lines/assets/55210700/c97ce96b-73bc-4e53-9aee-395b456ea5a5)
+![SF](https://github.com/grottixwoods/CoPilot-Defect-Segmentation-and-Laying-Lines/assets/55210700/34f6c9bd-1583-4c25-9d31-128aa0888c94)
+
 
 ---
 
